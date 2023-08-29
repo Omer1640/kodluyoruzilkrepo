@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğ
 öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek.)
 
 ```
-git clone https://github.com/Omer1640/deneme/commit/9dbbd251a3ff256ac55a0673b3e172a4e6ca6ad9
+git clone https://github.com/Omer1640/kodluyoruzilkrepo/edit/main/README.md
 ```
 ### Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
@@ -18,6 +18,6 @@ code.
 Pull requestler kabul edilir. Büyük değişikler için lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 ### License
-[MIT](https://github.com/Omer1640/deneme/commit/62a8d3cf1c894d61f4a1d8b9e10ea84f31d958f5)
+[MIT](https://github.com/Omer1640/kodluyoruzilkrepo/blob/main/LICENSE)
 
 ![Alt text](red-758x403.jpg)
